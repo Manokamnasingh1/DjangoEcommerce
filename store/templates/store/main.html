@@ -74,10 +74,13 @@
 	      <li class="nav-item active">
 	        <a class="nav-link" href="{% url 'store' %}">Store <span class="sr-only">(current)</span></a>
 	      </li>
-	 
+	      <li class="nav-item active">
+			<a class="nav-link" href="/contact">Contactus<span class="sr-only">(current)</span></a>
+		  </li>
 	    </ul>
+		
 	    <div class="form-inline my-2 my-lg-0">
-	     	<a href="#"class="btn btn-warning">Login</a>
+	     	<a href="/login"class="btn btn-warning">Login</a>
 	     	
 	     	<a href="{% url 'cart' %}">
 	    		<img  id="cart-icon" src="{% static 'images/cart.png' %}">
