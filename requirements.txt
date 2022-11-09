@@ -30,3 +30,4 @@ virtualenv==20.13.0
 waitress==2.1.1
 whitenoise==6.2.0
 youtube-search==1.1.1
+
