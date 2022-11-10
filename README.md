@@ -12,9 +12,10 @@ The website displays products. Users can add and remove products to/from their c
 # Admin dashboard 
 ![Screenshot (176)](https://user-images.githubusercontent.com/85088233/200910905-40cf37ff-d196-47b3-8d3b-61953375632e.png)
 # cart Pages
-![Screenshot (177)](https://user-images.githubusercontent.com/85088233/200912567-a39473a6-1a29-4fd9-8ff3-abd816daae3a.png)
-# checkout Pages
 ![Screenshot (178)](https://user-images.githubusercontent.com/85088233/200912667-3ab5a0a4-fbb5-4ccb-aa22-77d8090caf8a.png)
+# checkout Pages
+![Screenshot (177)](https://user-images.githubusercontent.com/85088233/200912567-a39473a6-1a29-4fd9-8ff3-abd816daae3a.png)
+
 
 
 
