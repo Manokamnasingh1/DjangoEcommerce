@@ -1,5 +1,5 @@
 # Django E-commerce
-LIVE ON : https://mycart1.herokuapp.com/
+https://web-production-18ee.up.railway.app/
 # Project Summary
 The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing.
 ![Screenshot (173)](https://user-images.githubusercontent.com/85088233/200908804-8d6f6e29-8ff9-4670-b189-c214ac26eff0.png)
